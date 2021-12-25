@@ -11,3 +11,11 @@ apt upgrade
 ```
 apt install apache2 php-apache php
 ```
+
+```
+apt install git && git clone https://github.com/WLS-SD/Apache2-And-PHP-Setup-For-Termux
+```
+
+```
+cd Apache2-And-PHP-Setup-For-Termux && chmod 777 * && ./apachephp.sh && termux-setup-storage
+```
