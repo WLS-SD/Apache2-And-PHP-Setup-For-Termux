@@ -31,8 +31,7 @@ cd Apache2-And-PHP-Setup-For-Termux && chmod 777 * && ./apachephp.sh && termux-s
 ```
 httpd
 ```
-
-
+## or 
 
 ```
 apachectl
