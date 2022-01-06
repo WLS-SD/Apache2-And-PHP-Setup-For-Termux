@@ -26,7 +26,7 @@ apt install git && git clone https://github.com/WLS-SD/Apache2-And-PHP-Setup-For
 cd Apache2-And-PHP-Setup-For-Termux && chmod 777 * && ./apachephp.sh && termux-setup-storage
 ```
 
-#To Start Server
+# To Start Server :~
 
 ```
 httpd
@@ -38,13 +38,13 @@ apachectl
 ```
 
 
-#To Kill Server
+# To Kill Server :~
 
 ```
 apachectl -k stop 
 ```
 
-### or
+## or
 
 
 ```
@@ -52,7 +52,7 @@ killall httpd
 ```
 
 
-#To watch Pid 
+# To watch Pid(Process iD) :~
 
 ```
 ps aux
